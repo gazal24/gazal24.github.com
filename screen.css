@@ -95,7 +95,7 @@ hr {
 /* HOME */
 
 body {
-  background: #fff url(../images/watermark.png) no-repeat fixed right 130px;
+  background: #fff url(images/watermark.png) no-repeat fixed right 130px;
 }
 
 #home #head, #home #foot {
@@ -127,8 +127,8 @@ pre {
   background:transparent;
   border-width:0;
 }
-#klug {
-  font-size:100px;
+#name {
+  font-size:60px;
   letter-spacing:-6px;
 }
 #nav {
